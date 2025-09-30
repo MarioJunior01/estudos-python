@@ -1,1 +1,1 @@
-# estudos-python
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2lpaWdkZXIzbTBtdDNvYTZ6amg2b2o0cmhja3c2ZTl5cm9vbjFyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UB3oKPLXgk0RUO1raM/giphy.gif" width="500" height="600">
